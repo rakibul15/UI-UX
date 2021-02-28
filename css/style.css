@@ -1,0 +1,49 @@
+.navbar-brand img{
+    width: 30%;
+}
+
+.navbar{
+    z-index: 999;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0,0,0);
+    font-weight: 500;
+}
+
+.navbar{
+    box-shadow: 1px 2px 8px grey;
+}
+
+.playstore{
+    background-color:#ffdf00;
+}
+
+.appStore{
+    background-color: white;
+    border: 1px solid black;
+    padding: 0.8rem 3.4rem !important;
+}
+
+.btn-lg {
+    padding: 0.8rem 4rem;
+    font-size: 1.25rem;
+    font-weight: 500;
+    line-height: 1.5;
+    border-radius: 1.3rem;
+}
+
+.fa-chevron-right{
+    font-size: 12px;
+}
+
+.bg{
+    background-color:#ffdf00;
+}
+
+.bg-white{
+    background-color:white !important;
+    height:100vh;
+    border-radius: 0px 40% 55% 0px;
+    padding-top: 100px;
+}
